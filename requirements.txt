@@ -1,0 +1,8 @@
+PyPDF2
+openai
+pinecone-client
+pandas
+numpy
+tiktoken
+python-dotenv
+seaborn

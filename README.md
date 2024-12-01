@@ -1,1 +1,1 @@
-# 4Geeks-RAG-Example
+# Based on the 4Geeks-RAG-Example created by Samir Chawla
